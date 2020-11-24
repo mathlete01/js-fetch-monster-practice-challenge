@@ -6011,6 +6011,18 @@
       "age": 50,
       "description": "Loves to eat cookies",
       "id": 1002
+    },
+    {
+      "name": "Harry",
+      "age": "20",
+      "description": "Hairy monster",
+      "id": 1003
+    },
+    {
+      "name": "Snickers",
+      "age": 50,
+      "description": "Loves to eat cookies",
+      "id": 1004
     }
   ]
 }
